@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://pittnail.github.io/ebaic"
+base_url = "https://pittnail.github.io/EBAIC"
 description = "The First International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023)"
 title = "EBAIC 2023"
 
