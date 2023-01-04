@@ -24,7 +24,7 @@ title: Organizers
 
 ### Publication Chair
 
-- [Sonish Sivarajkumar][sonish]
+- [Sonish Sivarajkumar][sonish]  
   PhD Student, Intelligent Systems Program, University of Pittsburgh, Pittsburgh, PA, USA.  
   E-mail: <sos86@pitt.edu>
 
