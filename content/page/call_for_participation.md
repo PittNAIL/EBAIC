@@ -1,6 +1,5 @@
 ---
 title: Call for Participation
-date: 2023-01-04
 ---
 
 The volume of Electronic Health Record (EHR) data has grown dramatically in the past decade due to

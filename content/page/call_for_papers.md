@@ -1,6 +1,5 @@
 ---
 title: Call for Papers
-date: 2023-01-04
 ---
 
 See below for tentative Call for Papers with deadlines.

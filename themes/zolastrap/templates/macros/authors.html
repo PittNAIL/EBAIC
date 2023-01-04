@@ -8,5 +8,7 @@
       title="{{author.title}}"
     ><b>{{author.title}}</b></a>{% if not loop.last %}, {% endif %}
   {% endfor %}{% if authors | length > 0 %} - {% endif %}
-  {{page.date | date(format=config.extra.date_format)}}
+  {% if page.date %}
+      {{page.date | date(format=config.extra.date_format)}}
+  {% endif %}
 {% endmacro %}

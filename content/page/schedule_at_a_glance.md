@@ -1,6 +1,5 @@
 ---
 title: Schedule-at-a-Glance
-date: 2023-01-04
 ---
 
 - Keynote, 1 hour

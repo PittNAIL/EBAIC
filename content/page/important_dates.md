@@ -1,6 +1,5 @@
 ---
 title: Important Dates
-date: 2023-01-04
 ---
 
 - Deadline for all submissions: March 1st, 2023

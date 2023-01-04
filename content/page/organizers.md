@@ -1,6 +1,5 @@
 ---
 title: Organizers
-date: 2023-01-04
 ---
 
 ### Co-Chairs
