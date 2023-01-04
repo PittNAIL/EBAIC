@@ -30,7 +30,6 @@ title: Organizers
 
 ### Steering committee
 
-- [Rema Padman, PhD][drpadman], Carnegie Mellon University, USA.
 - [Hongfang Liu, PhD][drliu], Mayo Clinic, USA.
 - [Fei Wang, PhD][drfeiwang], Weill Cornell Medicine, USA.
 - [Vikas Singh, PhD][drsingh], University of Wisconsin-Madison, USA.
