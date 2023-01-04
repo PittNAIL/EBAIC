@@ -30,11 +30,11 @@ title: Organizers
 
 ### Steering committee
 
-- [Rema Padman, PhD][drpadman], Carnegie Mellon University, US
-- [Hongfang Liu, PhD][drliu], Mayo Clinic, US
-- [Fei Wang, PhD][drfeiwang], Weill Cornell Medicine, US
-- [Vikas Singh, PhD][drsingh], University of Wisconsin-Madison, US
-- [Hossein Estiri, PhD][drestiri], Harvard Medical School, US
+- [Rema Padman, PhD][drpadman], Carnegie Mellon University, USA.
+- [Hongfang Liu, PhD][drliu], Mayo Clinic, USA.
+- [Fei Wang, PhD][drfeiwang], Weill Cornell Medicine, USA.
+- [Vikas Singh, PhD][drsingh], University of Wisconsin-Madison, USA.
+- [Hossein Estiri, PhD][drestiri], Harvard Medical School, USA.
 
 [drwang]: https://www.shrs.pitt.edu/people/yanshan-wang
 [drtafti]: https://aptafti.github.io/
