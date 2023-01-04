@@ -1,0 +1,33 @@
+# The URL the site will be built for
+base_url = "https://pittnail.github.io/ebaic"
+description = "The First International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023)"
+title = "EBAIC 2023"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "zolastrap"
+
+sort_by = "none"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+themes = ""
+schemes = ""
+banner = "/banner.png"
+
+links = [
+	{ title = "Organizers", url = "/page/organizers" },
+	{ title = "Important Dates", url = "/page/important-dates" },
+	{ title = "Schedule-at-a-Glance", url = "/page/schedule-at-a-glance" },
+	{ title = "Call for Papers", url = "/page/call-for-papers" },
+	{ title = "Call for Participation", url = "/page/call-for-participation" },
+]
