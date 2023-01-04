@@ -22,7 +22,7 @@ highlight_code = true
 # Put all your custom variables here
 themes = ""
 schemes = ""
-banner = "/banner.png"
+banner = "banner.png"
 
 links = [
 	{ title = "Organizers", url = "/page/organizers" },
