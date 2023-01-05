@@ -23,11 +23,3 @@ highlight_code = true
 themes = ""
 schemes = ""
 banner = "banner.png"
-
-links = [
-	{ title = "Organizers", url = "/page/organizers" },
-	{ title = "Important Dates", url = "/page/important-dates" },
-	{ title = "Schedule-at-a-Glance", url = "/page/schedule-at-a-glance" },
-	{ title = "Call for Papers", url = "/page/call-for-papers" },
-	{ title = "Call for Participation", url = "/page/call-for-participation" },
-]

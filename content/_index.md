@@ -1,19 +1,12 @@
 ---
+title: EBAIC 2023
 paginate_by: 1
 ---
 
-### Table of Contents
+at [ICHI 2023][ichi]  
+June 10th, 2023, Huston, Texas
 
-- [Workshop Topic and Description](#workshop-topic-description)
-- [Audience](#audience)
-- [Publicity](#publicity)
-- [Workshop Structure](#workshop-structure)
-- [Reviewing](#reviewing)
-- [Topics of Interest](#topics-of-interest)
-- [Submission and Review](#submission-and-review)
-- [More information](#more-information)
-
-### Workshop Topic Description
+### Call for Participation
 
 ---
 
@@ -24,73 +17,9 @@ clinical care, for example, clinical decision support, patient management, as we
 and translational research, such as digital phenotyping, cohort discovery, and in-silico trials.
 Despite the promising potential of AI in clinical applications, its regular use comes with bias and
 ethical challenges. As highlighted by recent studies, disparities in health care, although may start
-at the collection of clinical data, could be amplified with the development of AI technologies. This
-workshop will provide a unique platform to share the state-of-the-art research, methodologies, and
-tools to tackle the ethical and bias challenges of AI techniques when applied in clinical
-applications. The venue will also facilitate interactions among students, researchers, physicians,
-health IT professionals in health informatics who are interested in AI in clinical applications. The
-workshop will invite papers and short abstracts on novel approaches, works in progress, comparative
-analyses of tools, and original state-of-the-art work in ethics and bias of AI techniques in
-clinical applications. Selected papers will be presented as podium talks, and other interesting
-submissions and abstracts will be showcased as poster presentations. In addition, we will organize
-an educational event, the Ethics and Bias of Clinical AI Applications Hackathon, which uses hands-on
-algorithm examples and real-world health data to help the researchers and students understand the
-bias in big data and AI techniques in health care. We will focus on two tasks: clinical natural
-language processing and medical imaging. The event will be available for all students and
-researchers and specifically targeted at the students at the intersection of computer science,
-informatics, and health sciences at the conference.
+at the collection of clinical data, could be amplified with the development of AI technologies.
 
-### Audience
-
----
-
-Target audience includes students, researchers, physicians, health IT professionals in health
-informatics. Anyone interested in the ethics and bias challenges of AI techniques in clinical
-applications is welcome. Researchers and students working on clinical AI projects and others
-interested in learning about and sharing experience in addressing ethical challenges when applying
-AI in real world products are strongly encouraged to attend. We also welcome students who wish to
-closely interact with health informatics experts. Potential attendees may come from machine
-learning, NLP, and medical imaging communities in the medical domain (e.g., AMIA), as well as
-general health informatics professionals and researchers (e.g., ACL, IEEE). The anticipated number
-of attendees is around 50.
-
-### Publicity
-
----
-
-To attract attendees, we will advertise the workshop widely, including:
-
-1. Sending emails using community mailing lists such as AMIA Working Group mailing list.
-2. Creating a dedicated web site for the workshop.
-3. Contacting individuals through personal connections of organizers and committee members.
-4. Leveraging social media such as LinkedIn and Twitter.
-5. Contacting training programs in computer science, information science, and biomedical informatics
-   to attract additional students and trainees.
-
-### Workshop Structure
-
----
-
-This will be a one-day workshop (6 hours). We will allocate about 1 hour for an invited keynote
-presentation, 2 hours of podium talks of accepted papers, 1 hour for poster presentations of
-accepted abstracts, and 2 hours for the Ethics and Bias of Clinical AI Applications Hackathon.
-
-### Reviewing
-
----
-
-We will accept both full paper and poster submissions of original research in addressing ethics and
-bias of AI techniques in clinical applications. All submissions will be submitted and handled
-through EasyChair. A program committee (PC) will be formed consisting of members from the steering
-committee and other researchers with experience in health informatics. All submitted papers will
-undergo a peer review process conducted by at least 2 reviewers from the PC. All accepted
-submissions will be presented at the workshop and published in the IEEE ICHI 2023 Proceedings
-(including being archived in IEEE Xplore Digital Library). We also propose to invite selected papers
-to publish an extended version of their work in a special issue of Journal of American Medical
-Informatics Association or Journal of Medical Internet Research. (We will start negotiating with the
-journal after proposal acceptance).
-
-### Topics of Interest
+### Topics of interest
 
 ---
 
@@ -103,6 +32,26 @@ disparities, transparency/interpretability/explainability of AI techniques in cl
 data bias, algorithmic bias, human bias of AI techniques, fairness measures, fairness evaluations,
 fairness tools, reasoning, practical and technical solutions to mitigate the bias, and more.
 
+### Schedule-at-a-Glance
+
+---
+
+- Keynote, 1 hour
+- Paper presentation, 2 hours
+  - 6 paper presentations
+- Poster presentation, 1 hour
+  - 4 poster presentations
+- Hackathon, 2 hours
+  - Bias in Clinical Natural Language Processing Algorithms. Data: de-identified clinical notes from
+    MIMIC II. Algorithm: Rule-based NLP algorithm and cTAKES (a NLP system for extraction of
+    information from electronic medical record clinical free-text.) Task: Understand how
+    stigmatizing language in clinical notes varies by patients' medical condition and
+    race/ethnicity.
+  - Bias in Deep Learning Medical Image Segmentation. Data: Knee X-ray images from NIH OAI publicly
+    available dataset. Algorithm: Convolutional Neural Networks. Task: Understand how knee joint
+    segmentation and measurement varies by different racial or gender groups, and imbalanced
+    training data.
+
 ### Submission and Review
 
 ---
@@ -112,8 +61,54 @@ or her work to the EBAIC 2023. We accept both full paper submissions (6 pages) a
 submissions (4 pages). All papers will be submitted and handled through EasyChair at xxxx, with peer
 review by domain experts.
 
-### More information
+### More Information
 
 ---
 
 - For more information, please visit xxxxxxx [TBD]
+
+### Organizers
+
+---
+
+#### Co-Chairs
+
+- [Yanshan Wang, PhD][drwang], University of Pittsburgh, Pittsburgh, PA, USA
+- [Ahmad P. Tafti, PhD][drtafti], University of Pittsburgh, Pittsburgh, PA, USA
+- [Kirk Roberts, PhD][drroberts], The University of Texas Health Science Center at Houston, USA
+
+#### Technology Chair
+
+- [David Oniani][david], University of Pittsburgh, Pittsburgh, PA, USA
+
+#### Publication Chair
+
+- [Sonish Sivarajkumar][sonish], University of Pittsburgh, Pittsburgh, PA, USA
+
+#### Steering Committee
+
+- [Hongfang Liu, PhD][drliu], Mayo Clinic, USA
+- [Fei Wang, PhD][drfeiwang], Weill Cornell Medicine, USA
+- [Vikas Singh, PhD][drsingh], University of Wisconsin-Madison, USA
+- [Hossein Estiri, PhD][drestiri], Harvard Medical School, USA
+
+### Important Dates
+
+---
+
+- Deadline for all submissions: March 1st, 2023
+- Notification of decisions: March 21st, 2023
+- Camera-ready due: March 30th, 2023
+- Workshop date: June 10th, 2023
+
+[ichi]: https://ieeeichi.github.io/ICHI2023/
+[drwang]: https://www.shrs.pitt.edu/people/yanshan-wang
+[drtafti]: https://aptafti.github.io/
+[drroberts]: https://sbmi.uth.edu/faculty-and-staff/kirk-roberts.htm
+[david]: https://www.davidoniani.com/
+[sonish]: https://www.isp.pitt.edu/people/sonish-sivarajkumar
+[drpadman]: https://www.heinz.cmu.edu/faculty-research/profiles/padman-rema/
+[drliu]: https://www.mayo.edu/research/faculty/liu-hongfang-ph-d/bio-00055092
+[drfeiwang]: https://weill.cornell.edu/faculty-highlight/fei-wang-phd
+[drsingh]: https://www.biostat.wisc.edu/~vsingh/
+[drestiri]: https://www.hsph.harvard.edu/population-development/people/hossein-estiri-phd/
