@@ -109,7 +109,7 @@ peer-reviewed by domain experts.
 [drwang]: https://www.shrs.pitt.edu/people/yanshan-wang
 [drtafti]: https://aptafti.github.io/
 [drroberts]: https://sbmi.uth.edu/faculty-and-staff/kirk-roberts.htm
-[david]: https://www.davidoniani.com/
+[david]: https://oniani.ai/
 [sonish]: https://www.isp.pitt.edu/people/sonish-sivarajkumar
 [drpadman]: https://www.heinz.cmu.edu/faculty-research/profiles/padman-rema/
 [drliu]: https://www.mayo.edu/research/faculty/liu-hongfang-ph-d/bio-00055092
