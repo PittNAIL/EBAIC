@@ -4,33 +4,35 @@ paginate_by: 1
 ---
 
 at [ICHI 2023][ichi]  
-June 10th, 2023, Huston, Texas
+June 10th, 2023, Houston, Texas
 
 ### Call for Participation
 
 ---
 
 The volume of Electronic Health Record (EHR) data has grown dramatically in the past decade due to
-the wide adoption of EHR systems in health care systems. The availability of such large amounts of
-multi modality clinical data has fostered the application of Artificial Intelligence (AI) in
-clinical care, for example, clinical decision support, patient management, as well as in clinical
-and translational research, such as digital phenotyping, cohort discovery, and in-silico trials.
-Despite the promising potential of AI in clinical applications, its regular use comes with bias and
-ethical challenges. As highlighted by recent studies, disparities in health care, although may start
-at the collection of clinical data, could be amplified with the development of AI technologies.
+the wide adoption of EHR systems in healthcare systems. The availability of large amounts of
+multimodal clinical data has fostered the application of Artificial Intelligence (AI) in clinical
+care including in clinical decision support, patient management, as well as in clinical and
+translational research, such as digital phenotyping, cohort discovery, and in-silico trials. Despite
+the promising potential of AI in clinical applications, its regular use comes with bias and ethical
+challenges. As highlighted by recent studies, disparities in health care, although may start at the
+collection of clinical data, could be amplified with the development of AI technologies.
 
 ### Topics of interest
 
 ---
 
 Any original research related to ethics and bias of AI in clinical applications. The relevant AI
-techniques include, but not limited to, natural language processing, medical imaging, deep learning,
-predictive modeling, human computer interface, Internet of Things, and more. Clinical applications
-include, but not limited to, clinical decision support, clinical research, translational research,
-consumer applications, robotics. Other relevant topics include: AI for health equities, health
-disparities, transparency/interpretability/explainability of AI techniques in clinical applications,
-data bias, algorithmic bias, human bias of AI techniques, fairness measures, fairness evaluations,
-fairness tools, reasoning, practical and technical solutions to mitigate the bias, and more.
+techniques include, but are not limited to, natural language processing, medical imaging, deep
+learning, predictive modeling, human computer interface, Internet of Things, and more. Clinical
+applications include, but are not limited to, clinical decision support, clinical research,
+translational research, consumer applications, robotics.
+
+Other relevant topics include: AI for health equity, AI for health disparity,
+transparency/interpretability/explainability of AI techniques in clinical applications, data bias,
+algorithmic bias, human bias of AI techniques, fairness metrics, fairness evaluation, fairness
+tools, reasoning, practical and technical solutions to mitigate the bias, and more.
 
 ### Schedule-at-a-Glance
 
@@ -58,10 +60,10 @@ fairness tools, reasoning, practical and technical solutions to mitigate the bia
 
 ---
 
-Anyone who is interested in ethics and bias of AI in clinical applications is invited to submit his
-or her work to the EBAIC 2023. We accept both full paper submissions (6 pages) and poster
-submissions (4 pages). All papers will be submitted and handled through EasyChair at xxxx, with peer
-review by domain experts.
+Anyone who is interested in ethics and bias of AI in clinical applications is invited to submit
+their work to the EBAIC 2023. We accept both full paper submissions (6 pages) and poster submissions
+(4 pages). All papers must be submitted through EasyChair at xxxx. All submitted papers will be
+peer-reviewed by domain experts.
 
 ### More Information
 
