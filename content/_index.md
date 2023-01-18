@@ -71,7 +71,7 @@ applications.
 The purpose of the tutorial/hackathon session is to raise awareness of the problem of bias in
 clinical data and AI algorithms with the ultimate goal of creating innovative approaches that can
 help reduce or eliminate bias in clinical data and AI. Participants may be students, researchers,
-and data scientists who are interested in applying AI to clinical applications. Complete this [https://forms.gle/JXNfe6qcEnfEo6hFA][form] to register for the Tutorial/Hackathon Session.
+and data scientists who are interested in applying AI to clinical applications. Complete this [form][form] to register the Tutorial/Hackathon Session.
 
 - Track I: Clinical Natural Language Processing
   - Data: de-identified clinical notes from MIMIC III
@@ -156,3 +156,4 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 [drfeiwang]: https://wcm-wanglab.github.io/
 [drsingh]: https://www.biostat.wisc.edu/~vsingh/
 [drestiri]: https://www.hsph.harvard.edu/population-development/people/hossein-estiri-phd/
+[form]: https://forms.gle/JXNfe6qcEnfEo6hFA
