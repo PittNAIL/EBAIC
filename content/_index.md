@@ -4,7 +4,7 @@ paginate_by: 1
 ---
 
 at [ICHI 2023][ichi]  
-June 10th, 2023, Houston, Texas  
+June 25th, 2023, Houston, Texas  
 [Click here and get our flyer!](ICHI_EBAIC2023_Flyer.pdf)
 
 ### Call for Papers / Participation
@@ -136,10 +136,10 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 
 ---
 
-- Deadline for all submissions: March 1st, 2023
-- Notification of decisions: March 21st, 2023
-- Camera-ready due: March 30th, 2023
-- Workshop date: June 10th, 2023
+- Deadline for all submissions: March 21st, 2023
+- Notification of decisions: April 11th, 2023
+- Camera-ready due: April 21st, 2023
+- Workshop date: June 25th, 2023
 
 [ichi]: https://ieeeichi.github.io/ICHI2023/
 [submit]: https://easychair.org/conferences/?conf=ieeeichi2023
