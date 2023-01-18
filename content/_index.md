@@ -4,9 +4,10 @@ paginate_by: 1
 ---
 
 at [ICHI 2023][ichi]  
-June 10th, 2023, Houston, Texas
+June 10th, 2023, Houston, Texas  
+[Click here and get our flyer!](ICHI_EBAIC2023_Flyer.pdf)
 
-### Call for Participation
+### Call for Papers / Participation
 
 ---
 
@@ -34,42 +35,76 @@ transparency/interpretability/explainability of AI techniques in clinical applic
 algorithmic bias, human bias of AI techniques, fairness metrics, fairness evaluation, fairness
 tools, reasoning, practical and technical solutions to mitigate the bias, and more.
 
-### Schedule-at-a-Glance
+Finally, we will consider limited types of position papers on AI ethics/bias. This would include
+position papers from individuals/groups that are part of a community that has historically been
+adversely impacted by artificial intelligence, bias, or health disparities. We will also consider
+position papers from institutions playing key roles in mitigating the impact of bias in clinical
+applications.
+
+### Program-at-a-Glance
 
 ---
 
-- Keynote, 1 hour
-- Paper presentation, 2 hours
-  - 6 paper presentations
-- Poster presentation, 1 hour
-  - 4 poster presentations
-- Hackathon, 2 hours
-  - Bias in Clinical Natural Language Processing Algorithms
-    - Data: de-identified clinical notes from MIMIC II
-    - Algorithm: Rule-based NLP algorithm and cTAKES (an NLP system for extraction of information
-      from electronic medical record clinical free-text)
-    - Task: Understand how stigmatizing language in clinical notes varies by patients' medical
-      condition and race/ethnicity
-  - Bias in Deep Learning Medical Image Segmentation
-    - Data: Knee X-ray images from NIH OAI publicly available dataset
-    - Algorithm: Convolutional Neural Networks
-    - Task: Understand how knee joint segmentation and measurement varies by different racial or
-      gender groups, and imbalanced training data
+#### Scientific Session
+
+- Keynote Talk
+  - [Fei Wang][drfeiwang], PhD, FACMI, FAMIA, FIAHSI, ACM Distinguished Member.  
+    Associate Professor of Health Informatics, Weill Cornell Medicine. Founding Director. WCM
+    Institute of AI for Digital Health.
+- Oral Presentations & Posters
+  - Submission Types:
+    - **Regular Papers**: 10 pages with up to 2 extra pages for references/appendices.
+      - Will describe mature ideas, where a substantial amount of implementation, experimentation,
+        or data collection and analysis has been completed.
+    - **Short Papers**: 6 pages with up to 1 extra page for references/appendices.
+      - Will describe innovative ideas, where preliminary implementation and validation work have
+        been conducted.
+    - **Poster Submissions**: 2 pages with up to 1 extra page for references/appendices.
+      - Will present innovative ideas, late-breaking work, concepts, work-in-progress, early stages
+        of research, and preliminary results from implementation and validations to academic and
+        industrial audience.
+    - **Position Papers**: 4 pages with up to 2 extra pages for references/appendices.
+      - Will present an arguable opinion about AI ethics/bias and its impact.
+
+#### Tutorial/Hackathon Session
+
+The purpose of the tutorial/hackathon session is to raise awareness of the problem of bias in
+clinical data and AI algorithms with the ultimate goal of creating innovative approaches that can
+help reduce or eliminate bias in clinical data and AI. Participants may be students, researchers,
+and data scientists who are interested in applying AI to clinical applications.
+
+- Part I: Clinical Natural Language Processing
+  - Data: de-identified clinical notes from MIMIC III
+  - Algorithm: Rule-based NLP algorithm
+  - Task: Understand how stigmatizing language in clinical notes varies by patients' medical
+    condition and race/ethnicity
+  - Pre-requisite: Complete required training and sign the data use agreement for the MIMIC III data
+    access at [https://physionet.org/content/mimiciii/1.4/][mimicdatause]
+- Part II: Medical Imaging
+  - Data: Knee X-ray images from NIH OAI publicly available dataset
+  - Algorithm: Convolutional Neural Networks
+  - Task: Understand how knee joint segmentation and measurement varies by different racial or
+    gender groups, and imbalanced training data
 
 ### Submission and Review
 
 ---
 
 Anyone who is interested in ethics and bias of AI in clinical applications is invited to submit
-their work to the EBAIC 2023. We accept both full paper submissions (6 pages) and poster submissions
-(4 pages). All papers must be submitted through EasyChair at xxxx. All submitted papers will be
-peer-reviewed by domain experts.
+their work to the EBAIC 2023.
+
+Authors can log in at [https://easychair.org/conferences/?conf=ieeeichi2023][submit] and submit
+their papers under the "ebaic" track. All submitted papers will be peer-reviewed by domain experts.
 
 ### More Information
 
 ---
 
-- For more information, please visit xxxxxxx [TBD]
+For more information regarding paper template and review process, please visit
+[https://ieeeichi.github.io/ICHI2023/call_for_papers.html][callforpapers].
+
+All submissions will be published in [IEEE Xplore][ieeexplore] and indexed in other Abstracting and
+Indexing (A&I) databases. Accepted papers have an oral presentation slot at the conference.
 
 ### Organizers
 
@@ -78,6 +113,7 @@ peer-reviewed by domain experts.
 #### Co-Chairs
 
 - [Yanshan Wang, PhD][drwang], University of Pittsburgh, Pittsburgh, PA, USA
+- [Hongfang Liu, PhD][drliu], Mayo Clinic, Rochester, MN, USA
 - [Ahmad P. Tafti, PhD][drtafti], University of Pittsburgh, Pittsburgh, PA, USA
 - [Kirk Roberts, PhD][drroberts], The University of Texas Health Science Center at Houston, USA
 
@@ -91,7 +127,7 @@ peer-reviewed by domain experts.
 
 #### Steering Committee
 
-- [Hongfang Liu, PhD][drliu], Mayo Clinic, USA
+- [Rema Padman, PhD][drpadman], Carnegie Mellon University, USA
 - [Fei Wang, PhD][drfeiwang], Weill Cornell Medicine, USA
 - [Vikas Singh, PhD][drsingh], University of Wisconsin-Madison, USA
 - [Hossein Estiri, PhD][drestiri], Harvard Medical School, USA
@@ -106,6 +142,10 @@ peer-reviewed by domain experts.
 - Workshop date: June 10th, 2023
 
 [ichi]: https://ieeeichi.github.io/ICHI2023/
+[submit]: https://easychair.org/conferences/?conf=ieeeichi2023
+[callforpapers]: https://ieeeichi.github.io/ICHI2023/call_for_papers.html
+[ieeexplore]: https://ieeexplore.ieee.org/
+[mimicdatause]: https://physionet.org/content/mimiciii/1.4/
 [drwang]: https://www.shrs.pitt.edu/people/yanshan-wang
 [drtafti]: https://aptafti.github.io/
 [drroberts]: https://sbmi.uth.edu/faculty-and-staff/kirk-roberts.htm
@@ -113,6 +153,6 @@ peer-reviewed by domain experts.
 [sonish]: https://www.isp.pitt.edu/people/sonish-sivarajkumar
 [drpadman]: https://www.heinz.cmu.edu/faculty-research/profiles/padman-rema/
 [drliu]: https://www.mayo.edu/research/faculty/liu-hongfang-ph-d/bio-00055092
-[drfeiwang]: https://weill.cornell.edu/faculty-highlight/fei-wang-phd
+[drfeiwang]: https://wcm-wanglab.github.io/
 [drsingh]: https://www.biostat.wisc.edu/~vsingh/
 [drestiri]: https://www.hsph.harvard.edu/population-development/people/hossein-estiri-phd/
