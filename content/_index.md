@@ -141,6 +141,13 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 - Camera-ready due: April 21st, 2023
 - Workshop date: June 26th, 2023
 
+### Sponsorship
+
+---
+
+- [University of Pittsburgh Center for Bioethics and Health Law][pittbioethics]
+- [NIH Bridge to Artificial Intelligence (Bridge2AI)][bridge2ai]
+
 [ichi]: https://ieeeichi.github.io/ICHI2023/
 [submit]: https://easychair.org/conferences/?conf=ieeeichi2023
 [callforpapers]: https://ieeeichi.github.io/ICHI2023/call_for_papers.html
@@ -157,3 +164,5 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 [drsingh]: https://www.biostat.wisc.edu/~vsingh/
 [drestiri]: https://www.hsph.harvard.edu/population-development/people/hossein-estiri-phd/
 [form]: https://forms.gle/3mtLQcKijiYi3PrW8
+[pittbioethics]: https://bioethics.pitt.edu/
+[bridge2ai]: https://commonfund.nih.gov/bridge2ai
