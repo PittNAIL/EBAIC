@@ -138,7 +138,7 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 
 ---
 
-- Deadline for all submissions: March 21st, 2023
+- Deadline for all submissions: March 31st, 2023
 - Notification of decisions: April 11th, 2023
 - Camera-ready due: April 21st, 2023
 - Workshop date: June 26th, 2023
