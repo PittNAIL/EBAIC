@@ -13,6 +13,6 @@ jobs:
     - name: Checkout main
       uses: actions/checkout@v3.0.0
     - name: Build and deploy
-      uses: shalzz/zola-deploy-action@master
+      uses: shalzz/zola-deploy-action@71190a69bbadd5fea222346d79b960e687e898ed
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
