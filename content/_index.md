@@ -45,7 +45,7 @@ applications.
 
 ---
 
-<img alt="Agenda" src="/agenda.png" style="display: block; margin: 0 auto;" width="800" />
+<img alt="Agenda" src="agenda.png" style="display: block; margin: 0 auto;" width="800" />
 
 ### Program-at-a-Glance
 
