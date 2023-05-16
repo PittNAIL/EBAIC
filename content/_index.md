@@ -11,7 +11,7 @@ June 26th, 2023, Houston, Texas
 
 ---
 
-<img alt="Agenda" src="agenda.png" style="display: block; margin: 0 auto;" width="800" />
+<img alt="Agenda" src="agenda.png" width="640">
 
 ### Call for Papers / Participation
 
