@@ -41,6 +41,12 @@ adversely impacted by artificial intelligence, bias, or health disparities. We w
 position papers from institutions playing key roles in mitigating the impact of bias in clinical
 applications.
 
+### Agenda
+
+---
+
+<img alt="Agenda" src="/agenda.png" style="display: block; margin: 0 auto;" width="800" />
+
 ### Program-at-a-Glance
 
 ---
@@ -96,7 +102,7 @@ their work to the EBAIC 2023.
 Authors can log in at [https://easychair.org/conferences/?conf=ieeeichi2023][submit] and submit
 their papers under the "ebaic" track. All submitted papers will be peer-reviewed by domain experts.
 
-Accepted papers will also be invited to publish an extended version in the [Journal of Healthcare Informatics Research][jhir] with an accelerated peer-review process and a free of charge for publication (except Open Access). 
+Accepted papers will also be invited to publish an extended version in the [Journal of Healthcare Informatics Research][jhir] with an accelerated peer-review process and a free of charge for publication (except Open Access).
 
 ### More Information
 
@@ -169,3 +175,4 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 [pittbioethics]: https://bioethics.pitt.edu/
 [bridge2ai]: https://commonfund.nih.gov/bridge2ai
 [jhir]: https://www.springer.com/journal/41666
+
