@@ -7,6 +7,12 @@ at [ICHI 2023][ichi]
 June 26th, 2023, Houston, Texas  
 [Click here and get our flyer!](ICHI_EBAIC2023_Flyer.pdf)
 
+### Agenda
+
+---
+
+<img alt="Agenda" src="agenda.png" style="display: block; margin: 0 auto;" width="800" />
+
 ### Call for Papers / Participation
 
 ---
@@ -40,12 +46,6 @@ position papers from individuals/groups that are part of a community that has hi
 adversely impacted by artificial intelligence, bias, or health disparities. We will also consider
 position papers from institutions playing key roles in mitigating the impact of bias in clinical
 applications.
-
-### Agenda
-
----
-
-<img alt="Agenda" src="agenda.png" style="display: block; margin: 0 auto;" width="800" />
 
 ### Program-at-a-Glance
 
@@ -175,4 +175,3 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 [pittbioethics]: https://bioethics.pitt.edu/
 [bridge2ai]: https://commonfund.nih.gov/bridge2ai
 [jhir]: https://www.springer.com/journal/41666
-
