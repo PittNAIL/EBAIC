@@ -13,6 +13,76 @@ June 26th, 2023, Houston, Texas
 
 <img alt="Agenda" src="agenda.png" width="640">
 
+### Opening Keynote
+
+---
+
+<img alt="Fei Wang" src="feiwang.png" width="150">
+<br>
+
+**Fei Wang, PhD**  
+Associate Professor of Health Informatics.  
+Department of Population Health Sciences.  
+Director. Institute of AI in Digital Health.  
+Weill Cornell Medicine. Cornell University.
+
+**Talk Title**: Towards Building Trustworthy Machine Learning Models in Medicine: Accuracy,
+Fairness, Explainability, and All That
+
+**Abstract**: Machine learning (ML) is playing a more and more important role in medicine. One of
+the main reasons that ML models caught lots of attention is their superior quantitative performance.
+Recent research and practice pointed out that we also need to consider other aspects, such as model
+fairness and explainability. There exist tradeoffs among those different indices, so it is
+challenging to achieve all of them simultaneously. In this presentation, I will discuss the
+relationships among these different indices, introduce some of our work on joint optimization of
+multiple of them, and talk about future directions.
+
+**Bio**: Fei Wang is an Associate Professor in Division of Health Informatics, Department of
+Population Health Sciences, Weill Cornell Medicine (WCM), Cornell University. He is also the
+founding director of the WCM institute of AI for Digital Health (AIDH). His major research interest
+is AI and digital health. He has published more than 300 papers on the top venues of related areas
+such as ICML, KDD, NIPS, CVPR, AAAI, IJCAI, Nature Medicine, JAMA Internal Medicine, Annals of
+Internal Medicine, Lancet Digital Health, etc. His papers have received over 24,000 citations so far
+with an H-index 76. His (or his students’) papers have won 8 best paper (or nomination) awards at
+top international conferences on data mining and medical informatics. His team won the championship
+of the AACC PTHrP result prediction challenge in 2022, NIPS/Kaggle Challenge on Classification of
+Clinically Actionable Genetic Mutations in 2017 and Parkinson's Progression Markers' Initiative data
+challenge organized by Michael J. Fox Foundation in 2016. Dr. Wang is the recipient of the NSF
+CAREER Award in 2018, as well as the inaugural research leadership award in IEEE International
+Conference on Health Informatics (ICHI) 2019. Dr. Wang also received prestigious industry awards
+such as the Sanofi iDEA Award (2021), Google Faculty Research Award (2020) and Amazon AWS Machine
+Learning for Research Award (2017, 2019 and 2022). Dr. Wang’s Research has been supported by a
+diverse set of agencies including NSF, NIH, ONR, PCORI, MJFF, AHA, etc. Dr. Wang is the past chair
+of the Knowledge Discovery and Data Mining working group in American Medical Informatics Association
+(AMIA). Dr. Wang is a fellow of AMIA, a fellow of IAHSI, a fellow of ACMI and a distinguished
+member.
+
+### Closing Keynote
+
+---
+
+Characterization of Stigmatizing Language in Medical Records
+
+**Abstract**: Widespread disparities in clinical outcomes exist between different demographic groups
+in the United States. A new line of work in medical sociology has demonstrated physicians often use
+stigmatizing language in electronic medical records within certain groups, such as black patients,
+which may exacerbate disparities. In this study, we characterize these instances at scale using a
+series of domain-informed NLP techniques. We highlight important differences between this task and
+analogous bias-related tasks studied within the NLP community (e.g., classifying microaggressions).
+Our study establishes a foundation for NLP researchers to contribute timely insights to a problem
+domain brought to the forefront by recent legislation regarding clinical documentation transparency.
+We release data, code, and models.
+
+**Bio**: Keith Harrigian is a 4th year PhD Student in Computer Science at Johns Hopkins University.
+With his advisor Mark Dredze, Keith researches computational and statistical methods for modeling
+natural language. He is particularly interested in developing robust and stable machine learning
+models for application in the healthcare domain. Prior to joining Johns Hopkins, Keith was a Senior
+Quantitative Analyst at Warner Media where he leveraged machine learning and natural language
+processing to mine social media data for applications to film and television marketing. He holds a
+M.S.E in Computer Science from Johns Hopkins University and a B.S. in Mathematics with minors in
+Physics and Music from Northeastern University. He is currently on leave from JHU, working as a
+machine learning intern at Netflix.
+
 ### Call for Papers / Participation
 
 ---
