@@ -156,6 +156,7 @@ and data scientists who are interested in applying AI to clinical applications. 
     condition and race/ethnicity
   - Pre-requisite: Complete required training and sign the data use agreement for the MIMIC III data
     access at [https://physionet.org/content/mimiciii/1.4/][mimicdatause]
+  - Codebase: [https://github.com/pitthexai/ICHI2023_EBAIC][track2]
 - Track II: Medical Imaging
   - Data: Knee X-ray images from NIH OAI publicly available dataset
   - Algorithm: Convolutional Neural Networks
