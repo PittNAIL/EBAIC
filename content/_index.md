@@ -161,6 +161,7 @@ and data scientists who are interested in applying AI to clinical applications. 
   - Algorithm: Convolutional Neural Networks
   - Task: Understand how knee joint segmentation and measurement varies by different racial or
     gender groups, and imbalanced training data
+  - Codebase and dataset: [https://github.com/pitthexai/ICHI2023_EBAIC][track2]
 
 ### Submission and Review
 
@@ -245,3 +246,4 @@ Indexing (A&I) databases. Accepted papers have an oral presentation slot at the 
 [pittbioethics]: https://bioethics.pitt.edu/
 [bridge2ai]: https://commonfund.nih.gov/bridge2ai
 [jhir]: https://www.springer.com/journal/41666
+[track2]: https://github.com/pitthexai/ICHI2023_EBAIC
